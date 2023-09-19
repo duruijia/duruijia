@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print("so cute!")
+print("so beautiful!")
